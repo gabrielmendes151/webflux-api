@@ -1,0 +1,3 @@
+spring:
+  data:
+    mongodb.uri: mongodb+srv://oministack:oministack@database-lqnos.mongodb.net/webfluxDb?retryWrites=true&w=majority
